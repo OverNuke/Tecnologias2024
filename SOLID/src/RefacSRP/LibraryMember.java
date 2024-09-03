@@ -19,6 +19,5 @@ public class LibraryMember {
     }
     public void borrowBook (Book book) {
         book.lendBook();
-
     }
 }
